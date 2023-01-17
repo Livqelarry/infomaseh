@@ -16,6 +16,6 @@ Install required module
 ```
 ### Authors
 
-- [@soevielofficial](https://github.com/soevielofficial)
-
 - [@Livqelarry](https://github.com/Livqelarry)
+
+- [@soevielofficial](https://github.com/soevielofficial)
