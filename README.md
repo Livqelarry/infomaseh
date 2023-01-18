@@ -16,6 +16,6 @@ Install required module
 ```
 ### Authors
 
-- [@Livqelarry](https://github.com/Livqelarry)
+- [@Livqelarry/21.83.0638_Praditya Aldi Syahputra](https://github.com/Livqelarry)
 
-- [@soevielofficial](https://github.com/soevielofficial)
+- [@soevielofficial/21.83.0606_Tarikh Putra Sanjaya](https://github.com/soevielofficial)
