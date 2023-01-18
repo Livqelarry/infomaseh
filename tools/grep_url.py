@@ -1,8 +1,8 @@
-import requests
+import requests, json, http.client
 from bs4 import BeautifulSoup
 
-url = input('Masukan URL: ')
-reqs = requests.get(url)
+url = str(input("Masukkan subdomain: "))
+reqs = requests.get("http://" + url)
 soup = BeautifulSoup(reqs.text, 'html.parser')
 
 urls = []
